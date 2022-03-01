@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="https://media3.giphy.com/media/brsEO1JayBVja/giphy.gif?cid=ecf05e47o9qslttz93qdjhsvpd27f4qnosxsh38ymrxj8sdb&rid=giphy.gif&ct=g" alt="animated" />
+    ![]<img src="https://media3.giphy.com/media/brsEO1JayBVja/giphy.gif?cid=ecf05e47o9qslttz93qdjhsvpd27f4qnosxsh38ymrxj8sdb&rid=giphy.gif&ct=g" alt="animated" />
     </p>
 ### Hi there 👋, my name is **Subhi**</br>
 - 👀 I’m interested in Design and Web Development
