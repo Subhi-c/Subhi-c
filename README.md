@@ -1,15 +1,16 @@
-
-![](https://media-exp1.licdn.com/dms/image/C5616AQHxub-zeaYpZw/profile-displaybackgroundimage-shrink_200_800/0/1645331354038?e=1651708800&v=beta&t=SmfGVP8erEgLJYxGC000JXd79DToqTe6ve3ezdK-V6M)
 ### Hi there 👋, my name is Subhi
+![](https://media0.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=790b7611a1aec4a9b2319920fc2e0b2209540bdf363c55a7&rid=giphy.gif&ct=g)
+
 - 👀 I’m interested in UI/UX and Web Development
 - 🌱 I’m currently learning JavaScript
 
-Skills: HTML / CSS
+
+Skills:  HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
 
-<iframe src="https://giphy.com/embed/765ccrAiB0g9z6EApL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/765ccrAiB0g9z6EApL">via GIPHY</a></p>
+
 
 
 <!---
