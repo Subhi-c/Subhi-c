@@ -4,7 +4,7 @@
 Hi there 👋, my name is Subhi</br>
 - 👀 I’m interested in Design and Web Development</br>
 - 🌱 I’m currently learning JavaScript</br>
-- 🔭 I’m currently working on My own portfolio</br>
+- 🔭 <a href="https://subhi-c.github.io/Portfolio/">Subhi.C </a></br>
 
 Skills:</br>
 Blender/HTML / CSS </br>
