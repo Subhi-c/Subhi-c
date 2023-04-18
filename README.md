@@ -4,11 +4,11 @@
 Hi there 👋, my name is Subhi</br>
 - 👀 I’m interested in Design and Web Development</br>
 - 🌱 I’m currently learning JavaScript</br>
-- 🔭Check Out my Portfolio here!! -><a href="https://subhi-c.github.io/Portfolio/">Subhi.C</a><-</br>
+
 
 Skills:</br>
-Blender/HTML / CSS </br>
-- 🔭 I’m currently working on My own portfolio</br></br>
+Blender/ HTML / CSS / JS / AngualarJS </br>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'  height='40'>](https://www.linkedin.com/in/subhiksha-c-ab1a991b2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_itssubhihere_/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/subhic)
 <!---
 Subhi-c/Subhi-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
