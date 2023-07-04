@@ -3,7 +3,7 @@
     </p>
 Hi there 👋, my name is Subhi</br>
 - 👀 I’m interested in Design and Web Development</br>
-- 🌱 I’m currently learning JavaScript</br>
+- 🌱 I’m currently learning php</br>
 
 
 Skills:</br>
