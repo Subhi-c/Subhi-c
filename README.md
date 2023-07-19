@@ -9,7 +9,7 @@
 
 <h2><strong> Skills:</strong></h2> 
 
-👩🏼‍🎤: <br>
+👩🏼‍🎤Design: <br>
 Blender / Figma / Webflow <br>
 
 👩🏽‍💻Development :<br>
