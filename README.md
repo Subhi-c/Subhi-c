@@ -4,7 +4,7 @@
 <h2> Hi there 👋 , I'm Subhi</h2></br>
 - 📚 The Engineering Graduate in Electronics </br>
 - 👀 I’m interested in Web Design and Development</br>
-- 🌱 I’m currently learning php</br>
+- 🌱 yeah!! I'm a soft-Dev</br>
 
 
 <h2><strong> Skills:</strong></h2> 
