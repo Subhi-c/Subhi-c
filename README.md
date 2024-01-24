@@ -13,7 +13,7 @@
 Blender / Figma / Webflow <br>
 
 👩🏽‍💻Development :<br>
-HTML / CSS / JS / ANGULARJS / PHP<br>
+HTML / CSS / JS / ANGULARJS / PHP / REACTJS <br>
 
 
   <a href="https://www.linkedin.com/in/subhi-c">
