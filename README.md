@@ -5,7 +5,7 @@
 - 📚 The Engineering Graduate in Electronics </br>
 - 👀 I’m interested in Web Design and Development</br>
 - 🌱 yeah!! I'm a soft-Dev</br>
-
+- Currently working on my portfolio
 
 <h2><strong> Skills:</strong></h2> 
 
