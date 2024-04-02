@@ -10,7 +10,7 @@
 <h2><strong> Skills:</strong></h2> 
 
 👩🏼‍🎤Design: <br>
-Blender / Figma / Webflow <br>
+Blender / Figma  <br>
 
 👩🏽‍💻Development :<br>
 HTML / CSS / JS / ANGULARJS / PHP / REACTJS <br>
@@ -30,7 +30,3 @@ HTML / CSS / JS / ANGULARJS / PHP / REACTJS <br>
   <a href="https://www.frontendmentor.io/profile/Subhi-c">
     <img align="left" alt="Subhi" width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg'  />
   </a>
-<!---
-Subhi-c/Subhi-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
