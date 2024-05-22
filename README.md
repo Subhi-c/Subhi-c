@@ -1,11 +1,8 @@
 <p align="right">
     <img align="right" src="https://media3.giphy.com/media/brsEO1JayBVja/giphy.gif?cid=ecf05e47o9qslttz93qdjhsvpd27f4qnosxsh38ymrxj8sdb&rid=giphy.gif&ct=g" alt="animated" />
     </p>
-<h2> Hi there 👋 , I'm Subhi</h2></br>
-- 📚 The Engineering Graduate in Electronics </br>
-- 👀 I’m interested in Web Design and Development</br>
-- 🌱 yeah!! I'm a soft-Dev</br>
-- Currently working on my portfolio
+<h2>Heyo! I'm Subhi,</h2></br>
+<b>The bug-squashing wizard!</b> Catch me crafting brilliance in Software industry while I turn bugs into features faster than you can say <strong> '🚫404 Error🚫'!</strong>
 
 <h2><strong> Skills:</strong></h2> 
 
@@ -13,7 +10,7 @@
 Blender / Figma  <br>
 
 👩🏽‍💻Development :<br>
-HTML / CSS / JS / ANGULARJS / PHP / REACTJS <br>
+HTML / CSS / JS / Debugging / ANGULARJS / PHP / REACTJS <br>
 
 
   <a href="https://www.linkedin.com/in/subhi-c">
